@@ -1,2 +1,5 @@
 # hello-world
-Yet another repo
+Hi all,
+
+Welcome to my hello-world repo.
+I like python and js.
